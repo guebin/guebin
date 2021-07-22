@@ -7,14 +7,6 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 `-` E-mail: guebin@jbnu.ac.kr
 
-### Research Interests 
-
-`-` Geometric Deep Learninig 
-
-`-` Multiscale Analysis 
-
-`-` Reinforcement Learning
-
 ### Publications
 
 #### 2021 
