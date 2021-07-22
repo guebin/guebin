@@ -30,20 +30,9 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 `-` Choi, G., Oh, H. S., Lee, Y., Kim, D. & Yu, K. (2015). Variational mode decomposition with missing data. Korean Journal of Applied Statistics, 28(2), 159–174.
 
 
-### Presentations 
-
-`-` Heavy-Snow Transform: A New Multiscale Method for Time Series, The 5th Institute of Mathematical Statistics Asia Pacific Rim Meeting, National University of Singapore, June 2018. 
-
-`-`  Elastic-Band Transform: A New Approach to Multiscale Visualization, Joint Meeting of 10th Asian Regional Section (ARS) of the International Association for Statistical Computing (IASC) and the NZ Statistical Association (NZSA), The University of Auckland, December 2017.
-
-`-` Modified Variational Mode Decomposition using Ebayesthresh, The 4th Institute of Mathematical Statistics Asia Pacific Rim Meeting, The Chinese University of Hong Kong, June 2016. 
-
-`-` Modification of VMD for Handling Missing Data, The Korean Statistical Society Conference, Chungbuk National University, August 2015.
-
-
 ### Links
 
-`-` Personal blog: https://miruetoto.github.io/yechan/
+`-` My (very) personal blog: https://miruetoto.github.io/yechan/
 
 <!---
 guebin/guebin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
