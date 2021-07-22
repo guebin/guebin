@@ -1,6 +1,7 @@
+
+### About me
+
 I'm an Associate professor in Department of Statistics (Institute of Applied Statistics), Jeonbuk National University, South Korea. I received my Ph.D. from the Department of Statistics, Seoul National University in 2018, under the supervision of Prof. Hee-Seok Oh. My research area is multi-scale methodologies. In other words, I am interested in statistical methodologies that analyze the reproduced data at various resolutions. Among them, I am particularly interested in geometric deep learning that deals with unstructured data such as graphs and manifolds.
-
-
 
 ### Contact Information
 
