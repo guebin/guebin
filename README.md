@@ -7,7 +7,7 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 ### Contact Information
 
-`-` E-mail: guebin@jbnu.ac.kr
+`-` :rocket: E-mail: guebin@jbnu.ac.kr
 
 `-` Phone: (+82) 63-270-3387
 
