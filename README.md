@@ -3,9 +3,13 @@
 
 I'm an Associate professor in Department of Statistics (Institute of Applied Statistics), Jeonbuk National University, South Korea. I received my Ph.D. from the Department of Statistics, Seoul National University in 2018, under the supervision of Prof. Hee-Seok Oh. My research area is multi-scale methodologies. In other words, I am interested in statistical technique that represent a data at various scales and simultaneously handles theses representations. Among them, I am particularly interested in geometric deep learning that deals with unstructured data such as graphs and manifolds.
 
+--- 
+
 ### Contact Information
 
 `-` E-mail: guebin@jbnu.ac.kr
+
+--- 
 
 ### Publications
 
@@ -29,6 +33,7 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 `-` Choi, G., Oh, H. S., Lee, Y., Kim, D. & Yu, K. (2015). Variational mode decomposition with missing data. Korean Journal of Applied Statistics, 28(2), 159–174.
 
+---
 
 ### Links
 
