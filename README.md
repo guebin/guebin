@@ -39,7 +39,9 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 ### Links
 
-`-` My (very) personal blog: https://miruetoto.github.io/yechan/
+`-` Sinlogyechan's blog: https://miruetoto.github.io/yechan/
+
+### Lectures
 
 `-` Multiscale Lab: https://sites.google.com/view/snumultiscale/
 
