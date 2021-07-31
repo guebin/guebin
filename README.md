@@ -39,13 +39,21 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 ### Lectures
 
+> Note: Course names in italics are graduate classes
+
 #### 2021 
 
 `-`
 
 `-`
 
-`-` 
+`-` d
+
+`-` *Special Topics in Statistical Computing* (Department of Statistics, Jeonbuk National University) 
+
+`-` Introduction to Python (Department of Statistics, Jeonbuk National University) 
+
+`-` Data Science (Department of Statistics, Jeonbuk National University) 
 
 #### 2020
 
