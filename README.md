@@ -39,11 +39,19 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 ### Lectures
 
-`-` 
+#### 2021 
+
+`-`
+
+`-`
 
 `-` 
 
-`-` 
+#### 2020
+
+`-` Mathematical Statistics (Department of Mathematics, Soongsil University) 
+
+`-` Time Series Analysis (Department of Statistics and Actuarial Science, Soongsil University) 
 
 ---
 
