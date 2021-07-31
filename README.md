@@ -43,17 +43,17 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 #### 2021 
 
-`-`
+`-` *Special Topics in Data Visualization* (Department of Statistics, Jeonbuk National University) 
 
-`-`
+`-` Big Data Analysis (Department of Statistics, Jeonbuk National University) 
 
-`-` d
+`-` Data Visualization (Department of Statistics, Jeonbuk National University) 
 
 `-` *Special Topics in Statistical Computing* (Department of Statistics, Jeonbuk National University) 
 
-`-` Introduction to Python (Department of Statistics, Jeonbuk National University) 
-
 `-` Data Science (Department of Statistics, Jeonbuk National University) 
+
+`-` Introduction to Python (Department of Statistics, Jeonbuk National University) 
 
 #### 2020
 
