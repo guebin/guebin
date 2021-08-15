@@ -39,11 +39,11 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 ### Lectures
 
-> Note: Course names in italics are graduate classes
+> Note: Course names in bold italics are graduate classes
 
 #### 2021 
 
-`-` *Special Topics in Data Visualization* (Department of Statistics, Jeonbuk National University) 
+`-` ***Special Topics in Data Visualization*** (Department of Statistics, Jeonbuk National University) 
 
 `-` Big Data Analysis (Department of Statistics, Jeonbuk National University) 
 
@@ -51,7 +51,7 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 `-` Introduction to R (Department of Statistics, Jeonbuk National University) 
 
-`-` *Special Topics in Statistical Computing* (Department of Statistics, Jeonbuk National University) 
+`-` ***Special Topics in Statistical Computing*** (Department of Statistics, Jeonbuk National University) 
 
 `-` Data Science (Department of Statistics, Jeonbuk National University) 
 
