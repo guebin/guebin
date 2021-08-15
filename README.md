@@ -49,6 +49,8 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 `-` Data Visualization (Department of Statistics, Jeonbuk National University) 
 
+`-` Introduction to R (Department of Statistics, Jeonbuk National University) 
+
 `-` *Special Topics in Statistical Computing* (Department of Statistics, Jeonbuk National University) 
 
 `-` Data Science (Department of Statistics, Jeonbuk National University) 
