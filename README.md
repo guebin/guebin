@@ -43,7 +43,7 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 #### 2021 
 
-`-` ***Special Topics in Data Visualization*** (Department of Statistics, Jeonbuk National University) 
+`-` [***Special Topics in Data Visualization*** (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/2021STDV/)
 
 `-` Big Data Analysis (Department of Statistics, Jeonbuk National University) 
 
