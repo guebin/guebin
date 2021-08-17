@@ -67,11 +67,7 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 ### Links
 
-`-` Sinlogyechan's blog: https://miruetoto.github.io/yechan/
-
-`-` Multiscale Lab: https://sites.google.com/view/snumultiscale/
-
-
+`-` [Sinlogyechan's blog](https://miruetoto.github.io/yechan/)
 
 <!---
 guebin/guebin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
