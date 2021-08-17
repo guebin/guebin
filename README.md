@@ -45,11 +45,11 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 `-` [***Special Topics in Data Visualization*** (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/2021STDV/)
 
-`-` Big Data Analysis (Department of Statistics, Jeonbuk National University) 
+`-` [Big Data Analysis (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/2021BDA/)
 
-`-` Data Visualization (Department of Statistics, Jeonbuk National University) 
+`-` [Data Visualization (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/2021DV/)
 
-`-` Introduction to R (Department of Statistics, Jeonbuk National University) 
+`-` [Introduction to R (Department of Statistics, Jeonbuk National University)]((https://guebin.github.io/2021IR/)
 
 `-` ***Special Topics in Statistical Computing*** (Department of Statistics, Jeonbuk National University) 
 
