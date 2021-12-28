@@ -37,6 +37,16 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 ---
 
+### Students
+
+#### Master 
+
+`-` [최서연](https://seoyeonc.github.io/chch/)(2021.09~) 
+
+
+
+---
+
 ### Lectures
 
 > Note: Course names in bold italics are graduate classes
