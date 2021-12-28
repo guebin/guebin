@@ -91,7 +91,7 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 `-` [Chan`s Jupyter](https://goodboychan.github.io/) 
 
-`-` [생각많은소심남](https://talkingaboutme.tistory.com/)
+`-` [생각많은 소심남](https://talkingaboutme.tistory.com/)
 
 <!---
 guebin/guebin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
