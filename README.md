@@ -43,7 +43,7 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 `-` [김하영](https://kimha02.github.io/ham/) (2021.03~) 
 
-`-` 심재인 (2021.03~)
+`-` [심재인](https://simjaein.github.io/ji1598/) (2021.03~)
 
 `-` [최서연](https://seoyeonc.github.io/chch/) (2021.09~) 
 
@@ -92,6 +92,8 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 `-` [Chan`s Jupyter](https://goodboychan.github.io/) 
 
 `-` [생각많은 소심남](https://talkingaboutme.tistory.com/)
+
+`-` 
 
 <!---
 guebin/guebin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
