@@ -93,7 +93,8 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 `-` [생각많은 소심남](https://talkingaboutme.tistory.com/)
 
-`-` 
+`-` [jaeni](https://simjaein.github.io/ji1598/)
+
 
 <!---
 guebin/guebin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
