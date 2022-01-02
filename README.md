@@ -55,6 +55,10 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 > Note: Course names in bold italics are graduate classes
 
+#### 2022 
+
+`-` Winter Program: Special Topics Introduction to Python (Department of Statistics, Jeonbuk National University) 
+
 #### 2021 
 
 `-` [***Special Topics in Data Visualization*** (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/2021STDV/)
