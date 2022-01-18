@@ -87,7 +87,7 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 `-` [신록예찬's blog](https://miruetoto.github.io/yechan/)
 
-`-` [하영이의 공부 블로그 ^-^](https://kimha02.github.io/ham/) 
+`-` [Hayoung Blog](https://kimha02.github.io/ham/) 
 
 `-` [Seoyeon Choi](https://seoyeonc.github.io/chch/) 
 
