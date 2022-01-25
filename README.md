@@ -57,6 +57,8 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 #### 2022 
 
+`-` [Winter Program: ADsP, Advanced Data analytics semi-Professional (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/ADSP2022WIN/)
+
 `-` [Winter Program: Special Topics in Introduction to Python (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/IP2022WIN/)
 
 #### 2021 
