@@ -57,13 +57,13 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 #### 2022 
 
-`-` [***Special Topics Big Data Analysis*** (Department of Statistics, Jeonbuk National University)]
+`-` [***Special Topics Big Data Analysis*** (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/STBDA2022/)
 
-`-` Data Science (Department of Statistics, Jeonbuk National University) 
+`-` [Data Science (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/DS2022/)
 
-`-` Statistical Computing (Department of Statistics, Jeonbuk National University) 
+`-` Statistical Computing (Department of Statistics, Jeonbuk National University)
 
-`-` Introduction to Python (Department of Statistics, Jeonbuk National University) 
+`-` [Introduction to Python (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/IP2022/)
 
 `-` Winter Program: ADsP, Advanced Data analytics semi-Professional (Department of Statistics, Jeonbuk National University)
 
