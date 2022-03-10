@@ -61,7 +61,7 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 `-` [Data Science (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/DS2022/)
 
-`-` Statistical Computing (Department of Statistics, Jeonbuk National University)
+`-` [Statistical Computing (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/SC2022/)
 
 `-` [Introduction to Python (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/IP2022/)
 
