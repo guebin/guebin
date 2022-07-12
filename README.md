@@ -11,6 +11,11 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 `-` Phone: (+82) 63-270-3387
 
+
+--- 
+### youtube 
+`-` [youtube](https://www.youtube.com/channel/UCQk9RyBNgXc7ORIsYlOfQrg)
+
 --- 
 
 ### Publications
