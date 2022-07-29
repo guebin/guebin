@@ -39,11 +39,11 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 #### Master 
 
-`-` [김하영](https://kimha02.github.io/ham/) (2021.03~) 
+`-` [김하영](https://github.com/kimha02) (2021.03~) 
 
 `-` [심재인](https://simjaein.github.io/ji1598/) (2021.03~)
 
-`-` [최서연](https://seoyeonc.github.io/chch/) (2021.09~) 
+`-` [최서연](https://github.com/seoyeonc) (2021.09~) 
 
 #### Alumni 
 
@@ -98,6 +98,8 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 `-` [Hayoung Blog](https://kimha02.github.io/ham/) 
 
 `-` [Seoyeon Choi](https://seoyeonc.github.io/chch/) 
+
+`-` [Seoyeon Choi (ms)](https://seoyeonc.github.io/chch/) 
 
 `-` [triviaz](http://triviaz.net/blog)
 
