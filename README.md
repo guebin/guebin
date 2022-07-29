@@ -99,7 +99,7 @@ I'm an Associate professor in Department of Statistics (Institute of Applied Sta
 
 `-` [Seoyeon Choi](https://seoyeonc.github.io/chch/) 
 
-`-` [Seoyeon Choi (ms)](https://seoyeonc.github.io/chch/) 
+`-` [Seoyeon Choi (ms)](https://seoyeonc.github.io/ms/) 
 
 `-` [triviaz](http://triviaz.net/blog)
 
