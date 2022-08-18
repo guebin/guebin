@@ -95,11 +95,11 @@ I'm an assistant professor in Department of Statistics (Institute of Applied Sta
 
 - Introduction to Python (Department of Statistics, Jeonbuk National University) 
 
-#### 2020
+#### 2020 (Soongsil University)
 
-- Mathematical Statistics (Department of Mathematics, Soongsil University) 
+- Mathematical Statistics 
 
-- Time Series Analysis (Department of Statistics and Actuarial Science, Soongsil University) 
+- Time Series Analysis 
 
 ---
 
