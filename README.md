@@ -15,7 +15,7 @@ I'm an assistant professor in Department of Statistics (Institute of Applied Sta
 
 #### 2022 
 
-`-` Oh, H. S., Choi, G., & Kim, D. (2022). Decomp2d: An R solution for image decomposition. SoftwareX, 19, 101182.
+- Oh, H. S., Choi, G., & Kim, D. (2022). Decomp2d: An R solution for image decomposition. SoftwareX, 19, 101182.
 
 #### 2021 
 
