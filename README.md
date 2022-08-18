@@ -63,55 +63,55 @@ I'm an assistant professor in Department of Statistics (Institute of Applied Sta
 
 - [Data Science (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/DS2022/)
 
-`-` [Statistical Computing (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/SC2022/)
+- [Statistical Computing (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/SC2022/)
 
-`-` [Introduction to Python (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/IP2022/)
+- [Introduction to Python (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/IP2022/)
 
-`-` Winter Program: ADsP, Advanced Data analytics semi-Professional (Department of Statistics, Jeonbuk National University)
+- Winter Program: ADsP, Advanced Data analytics semi-Professional (Department of Statistics, Jeonbuk National University)
 
-`-` [Winter Program: Special Topics in Introduction to Python (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/IP2022WIN/)
+- [Winter Program: Special Topics in Introduction to Python (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/IP2022WIN/)
 
 #### 2021 
 
-`-` [***Special Topics in Data Visualization*** (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/STDV2021/)
+- [***Special Topics in Data Visualization*** (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/STDV2021/)
 
-`-` [Big Data Analysis (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/BDA2021/)
+- [Big Data Analysis (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/BDA2021/)
 
-`-` [Data Visualization (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/DV2021/)
+- [Data Visualization (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/DV2021/)
 
-`-` [Introduction to R (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/IR2021/)
+- [Introduction to R (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/IR2021/)
 
-`-` ***Special Topics in Statistical Computing*** (Department of Statistics, Jeonbuk National University) 
+- ***Special Topics in Statistical Computing*** (Department of Statistics, Jeonbuk National University) 
 
-`-` Data Science (Department of Statistics, Jeonbuk National University) 
+- Data Science (Department of Statistics, Jeonbuk National University) 
 
-`-` Introduction to Python (Department of Statistics, Jeonbuk National University) 
+- Introduction to Python (Department of Statistics, Jeonbuk National University) 
 
 #### 2020
 
-`-` Mathematical Statistics (Department of Mathematics, Soongsil University) 
+- Mathematical Statistics (Department of Mathematics, Soongsil University) 
 
-`-` Time Series Analysis (Department of Statistics and Actuarial Science, Soongsil University) 
+- Time Series Analysis (Department of Statistics and Actuarial Science, Soongsil University) 
 
 ---
 
 ### Links
 
-`-` [신록예찬's blog](https://miruetoto.github.io/yechan/)
+- [신록예찬's blog](https://miruetoto.github.io/yechan/)
 
-`-` [Hayoung Blog](https://kimha02.github.io/ham/) 
+- [Hayoung Blog](https://kimha02.github.io/ham/) 
 
-`-` [Seoyeon Choi](https://seoyeonc.github.io/chch/) 
+- [Seoyeon Choi](https://seoyeonc.github.io/chch/) 
 
-`-` [Seoyeon Choi (ms)](https://seoyeonc.github.io/ms/) 
+- [Seoyeon Choi (ms)](https://seoyeonc.github.io/ms/) 
 
-`-` [triviaz](http://triviaz.net/blog)
+- [triviaz](http://triviaz.net/blog)
 
-`-` [Chan`s Jupyter](https://goodboychan.github.io/) 
+- [Chan`s Jupyter](https://goodboychan.github.io/) 
 
-`-` [생각많은 소심남](https://talkingaboutme.tistory.com/)
+- [생각많은 소심남](https://talkingaboutme.tistory.com/)
 
-`-` [jaeni](https://simjaein.github.io/ji1598/)
+- [jaeni](https://simjaein.github.io/ji1598/)
 
 
 <!---
