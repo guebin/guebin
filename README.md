@@ -13,6 +13,10 @@ I'm an assistant professor in Department of Statistics (Institute of Applied Sta
 
 ### Publications
 
+#### 2022 
+
+`-` Oh, H. S., Choi, G., & Kim, D. (2022). Decomp2d: An R solution for image decomposition. SoftwareX, 19, 101182.
+
 #### 2021 
 
 `-` Choi, G. (2021). A new approach for detecting gradual changes in non-stationary time series with seasonal effects. *Journal of the Korean Statistical Society, 50(2)*, 419-430. 
