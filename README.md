@@ -27,15 +27,15 @@ I'm an assistant professor in Department of Statistics (Institute of Applied Sta
 
 #### 2020 
 
-`-` Kim, D., Choi, G., & Oh, H. S. (2020). Ensemble patch transformation: a flexible frame- work for decomposition and filtering of signal. *EURASIP Journal on Advances in Signal Processing, 2020(1)*, 1-27.
-
+- Kim, D., Choi, G., & Oh, H. S. (2020). Ensemble patch transformation: a flexible frame- work for decomposition and filtering of signal. *EURASIP Journal on Advances in Signal Processing, 2020(1)*, 1-27.
 
 #### 2018 
-`-` Choi, G., Oh, H. S. & Kim, D. (2018). Enhancement of variational mode decomposition with missing values. *Signal Processing, 142*, 75–86.
+
+- Choi, G., Oh, H. S. & Kim, D. (2018). Enhancement of variational mode decomposition with missing values. *Signal Processing, 142*, 75–86.
 
 #### 2015
 
-`-` Choi, G., Oh, H. S., Lee, Y., Kim, D. & Yu, K. (2015). Variational mode decomposition with missing data. *Korean Journal of Applied Statistics, 28(2)*, 159–174.
+- Choi, G., Oh, H. S., Lee, Y., Kim, D. & Yu, K. (2015). Variational mode decomposition with missing data. *Korean Journal of Applied Statistics, 28(2)*, 159–174.
 
 ---
 
@@ -43,11 +43,11 @@ I'm an assistant professor in Department of Statistics (Institute of Applied Sta
 
 #### Master 
 
-`-` [김하영](https://github.com/kimha02) (2021.03~) 
+- [김하영](https://github.com/kimha02) (2021.03~) 
 
-`-` [심재인](https://simjaein.github.io/ji1598/) (2021.03~)
+- [심재인](https://simjaein.github.io/ji1598/) (2021.03~)
 
-`-` [최서연](https://github.com/seoyeonc) (2021.09~) 
+- [최서연](https://github.com/seoyeonc) (2021.09~) 
 
 #### Alumni 
 
