@@ -59,9 +59,9 @@ I'm an assistant professor in Department of Statistics (Institute of Applied Sta
 
 #### 2022 
 
-`-` [***Special Topics in Big Data Analysis*** (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/STBDA2022/)
+- [***Special Topics in Big Data Analysis*** (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/STBDA2022/)
 
-`-` [Data Science (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/DS2022/)
+- [Data Science (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/DS2022/)
 
 `-` [Statistical Computing (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/SC2022/)
 
