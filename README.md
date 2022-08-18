@@ -65,35 +65,35 @@ I'm an assistant professor in Department of Statistics (Institute of Applied Sta
 
 - Deep Learning 
 
-- Suumer Program: Reinforcement Learning (Department of Statistics, Jeonbuk National University) 
+- Suumer Program: Reinforcement Learning 
 
-- [***Special Topics in Big Data Analysis*** (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/STBDA2022/)
+- [***Special Topics in Big Data Analysis***](https://guebin.github.io/STBDA2022/)
 
-- [Data Science (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/DS2022/)
+- [Data Science](https://guebin.github.io/DS2022/)
 
-- [Statistical Computing (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/SC2022/)
+- [Statistical Computing](https://guebin.github.io/SC2022/)
 
-- [Introduction to Python (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/IP2022/)
+- [Introduction to Python](https://guebin.github.io/IP2022/)
 
-- Winter Program: ADsP, Advanced Data analytics semi-Professional (Department of Statistics, Jeonbuk National University)
+- Winter Program: ADsP, Advanced Data analytics semi-Professional 
 
-- [Winter Program: Special Topics in Introduction to Python (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/IP2022WIN/)
+- [Winter Program: Special Topics in Introduction to Python](https://guebin.github.io/IP2022WIN/)
 
 #### 2021 
 
-- [***Special Topics in Data Visualization*** (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/STDV2021/)
+- [***Special Topics in Data Visualization***](https://guebin.github.io/STDV2021/)
 
-- [Big Data Analysis (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/BDA2021/)
+- [Big Data Analysis](https://guebin.github.io/BDA2021/)
 
-- [Data Visualization (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/DV2021/)
+- [Data Visualization](https://guebin.github.io/DV2021/)
 
-- [Introduction to R (Department of Statistics, Jeonbuk National University)](https://guebin.github.io/IR2021/)
+- [Introduction to R](https://guebin.github.io/IR2021/)
 
-- ***Special Topics in Statistical Computing*** (Department of Statistics, Jeonbuk National University) 
+- ***Special Topics in Statistical Computing*** 
 
-- Data Science (Department of Statistics, Jeonbuk National University) 
+- Data Science 
 
-- Introduction to Python (Department of Statistics, Jeonbuk National University) 
+- Introduction to Python 
 
 #### 2020 (Soongsil University)
 
