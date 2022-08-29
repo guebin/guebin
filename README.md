@@ -43,7 +43,7 @@ I'm an assistant professor in Department of Statistics (Institute of Applied Sta
 
 #### Master 
 
-- [김하영](https://github.com/kimha02) (2021.03~), KT 
+- [김하영](https://github.com/kimha02) (2021.03~)
 
 - [심재인](https://simjaein.github.io/ji1598/) (2021.03~)
 
