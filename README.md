@@ -63,7 +63,7 @@ I'm an assistant professor in Department of Statistics (Institute of Applied Sta
 
 - Data Visualization 
 
-- Deep Learning 
+- [Deep Learning](https://guebin.github.io/DL2022/)
 
 - Suumer Program: Reinforcement Learning 
 
