@@ -59,9 +59,9 @@ I'm an assistant professor in Department of Statistics (Institute of Applied Sta
 
 #### 2022 
 
-- ***Special Topics in Machine Learning***
+- [***Special Topics in Machine Learning***](https://guebin.github.io/STML2022/)
 
-- Data Visualization 
+- [Data Visualization](https://guebin.github.io/DV2022/)
 
 - [Deep Learning](https://guebin.github.io/DL2022/)
 
