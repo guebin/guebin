@@ -50,6 +50,7 @@ I'm an assistant professor in Department of Statistics (Institute of Applied Sta
 #### Alumni 
 
 - [김하영](https://github.com/kimha02), MS 2022, KT (케이티)
+
 ---
 
 ### Lectures
