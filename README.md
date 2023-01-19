@@ -48,9 +48,11 @@ I'm an assistant professor in Department of Statistics (Institute of Applied Sta
 
 #### Master 
 
-- [심재인](https://simjaein.github.io/ji1598/) (2021.03~)
+- [심재인](https://simjaein.github.io/ji1598/) (2021~)
 
-- [최서연](https://github.com/seoyeonc) (2021.09~)
+- [최서연](https://github.com/seoyeonc) (2021~)
+
+- 김보람 (2022~)
 
 #### Alumni 
 
