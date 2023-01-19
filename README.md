@@ -13,6 +13,11 @@ I'm an assistant professor in Department of Statistics (Institute of Applied Sta
 
 ### Publications
 
+
+#### 2023 
+
+- Choi, G., & Oh, H. S. (2023). Elastic-Band Transform for Visualization and Detection. Pattern Recognition Letters.
+
 #### 2022 
 
 - Oh, H. S., Choi, G., & Kim, D. (2022). Decomp2d: An R solution for image decomposition. SoftwareX, 19, 101182.
