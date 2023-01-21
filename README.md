@@ -112,13 +112,17 @@ I'm an assistant professor in Department of Statistics (Institute of Applied Sta
 
 ### Links
 
-- [신록예찬's blog](https://miruetoto.github.io/yechan/)
+- [yechan3](https://miruetoto.github.io/yechan3/)
 
 - [Hayoung Blog](https://kimha02.github.io/ham/) 
 
-- [Seoyeon Choi](https://seoyeonc.github.io/chch/) 
+- [Seoyeon Choi (chch)](https://seoyeonc.github.io/chch/) <- suspended
 
-- [Seoyeon Choi (ms)](https://seoyeonc.github.io/ms/) 
+- [Seoyeon Choi (ms)](https://seoyeonc.github.io/ms/) <- suspended
+
+- [Seoyeon Choi (md)](https://seoyeonc.github.io/md/) 
+
+- [Seoyeon Choi (blog)](https://seoyeonc.github.io/blog/) 
 
 - [triviaz](http://triviaz.net/blog)
 
