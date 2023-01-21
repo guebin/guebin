@@ -114,7 +114,7 @@ I'm an assistant professor in Department of Statistics (Institute of Applied Sta
 
 - [yechan3](https://miruetoto.github.io/yechan3/)
 
-- [Hayoung Blog](https://kimha02.github.io/ham/) 
+- [Hayoung Blog](https://kimha02.github.io/ham/) <- suspended
 
 - [Seoyeon Choi (chch)](https://seoyeonc.github.io/chch/) <- suspended
 
