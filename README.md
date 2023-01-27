@@ -52,7 +52,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 - [최서연](https://github.com/seoyeonc) (2021~)
 
-- 김보람 (2022~)
+- [김보람](https://github.com/boram-coco) (2022~)
 
 #### Alumni 
 
