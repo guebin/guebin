@@ -64,6 +64,16 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 > Note: Course names in bold italics are graduate classes
 
+#### 2023 
+
+- ***Advanced Probability Theory***
+
+- Stochastic Processes
+
+- Python programming
+
+- [Winter Program: Special Topics in Introduction to Python](https://guebin.github.io/IP2023WIN/)
+
 #### 2022 
 
 - [***Special Topics in Machine Learning***](https://guebin.github.io/STML2022/)
