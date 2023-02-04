@@ -70,7 +70,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 - Stochastic Processes
 
-- Python programming
+- Python Programming
 
 - [Winter Program: Statistical Data Analysis using Python](https://guebin.github.io/IP2023WIN/)
 
