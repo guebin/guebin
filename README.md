@@ -72,7 +72,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 - Python programming
 
-- [Winter Program: Special Topics in Introduction to Python](https://guebin.github.io/IP2023WIN/)
+- [Winter Program: Statistical Data Analysis using Python](https://guebin.github.io/IP2023WIN/)
 
 #### 2022 
 
