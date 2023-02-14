@@ -118,31 +118,6 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 - Time Series Analysis 
 
----
-
-### Links
-
-- [yechan3](https://miruetoto.github.io/yechan3/)
-
-- [Hayoung Blog](https://kimha02.github.io/ham/) <- suspended
-
-- [Seoyeon Choi (chch)](https://seoyeonc.github.io/chch/) <- suspended
-
-- [Seoyeon Choi (ms)](https://seoyeonc.github.io/ms/) <- suspended
-
-- [Seoyeon Choi (md)](https://seoyeonc.github.io/md/) 
-
-- [Seoyeon Choi (blog)](https://seoyeonc.github.io/blog/) 
-
-- [triviaz](http://triviaz.net/blog)
-
-- [Chan`s Jupyter](https://goodboychan.github.io/) 
-
-- [생각많은 소심남](https://talkingaboutme.tistory.com/)
-
-- [jaeni](https://simjaein.github.io/ji1598/)
-
-
 <!---
 guebin/guebin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
