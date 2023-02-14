@@ -54,7 +54,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 - [김보람](https://github.com/boram-coco) (2022~)
 
-- 임지윤 (2023~)
+- [임지윤](https://github.com/pinkocto) (2023~)
 
 #### Alumni 
 
