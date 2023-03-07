@@ -68,11 +68,11 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 #### 2023 
 
-- ***Advanced Probability Theory***
+- [***Advanced Probability Theory***](https://guebin.github.io/AP2023/)
 
-- Stochastic Processes
+- [Stochastic Processes](https://guebin.github.io/SP2023/)
 
-- Python Programming
+- [Python Programming](https://guebin.github.io/PP2023/)
 
 - [Winter Program: Statistical Data Analysis using Python](https://guebin.github.io/IP2023WIN/)
 
