@@ -49,6 +49,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 #### Master 
 
 `-` [심재인](https://github.com/simjaein) 
+- https://simjaein.github.io/jisim12/
 
 `-` [최서연](https://github.com/seoyeonc) 
 
