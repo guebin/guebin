@@ -48,17 +48,17 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 #### Master 
 
-- [심재인](https://simjaein.github.io/ji1598/) (2021~)
+`-` [심재인](https://github.com/simjaein) 
 
-- [최서연](https://github.com/seoyeonc) (2021~)
+`-` [최서연](https://github.com/seoyeonc) 
 
-- [김보람](https://github.com/boram-coco) (2022~)
+`-` [김보람](https://github.com/boram-coco)
 
-- [임지윤](https://github.com/pinkocto) (2023~)
+`-` [임지윤](https://github.com/pinkocto) 
 
 #### Alumni 
 
-- [김하영](https://github.com/kimha02), MS 2022, KT (케이티)
+`-` [김하영](https://github.com/kimha02), MS 2022, KT (케이티)
 
 ---
 
