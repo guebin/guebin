@@ -52,10 +52,16 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 - https://simjaein.github.io/jisim12/
 
 `-` [최서연](https://github.com/seoyeonc) 
+- https://seoyeonc.github.io/blog/
+- https://seoyeonc.github.io/md/
 
 `-` [김보람](https://github.com/boram-coco)
+- https://boram-coco.github.io/coco/
 
 `-` [임지윤](https://github.com/pinkocto) 
+- https://pinkocto.github.io/mm/
+- https://pinkocto.github.io/Quarto-Blog/
+
 
 #### Alumni 
 
