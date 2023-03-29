@@ -51,7 +51,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 `-` [심재인](https://github.com/simjaein) 
 - https://simjaein.github.io/jisim12/
 
-`-` [최서연](https://github.com/seoyeonc) 
+`-` [최서연](https://github.com/seoyeonc) // 기하딥러닝, 그래프신호처리, 이상치감지 
 - https://seoyeonc.github.io/blog/
 - https://seoyeonc.github.io/md/
 
