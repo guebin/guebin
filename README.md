@@ -59,7 +59,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 - https://boram-coco.github.io/coco/
 
 `-` [임지윤](https://github.com/pinkocto) 
-- https://pinkocto.github.io/mm/
+- https://pinkocto.github.io/noteda/
 - https://pinkocto.github.io/Quarto-Blog/
 
 
