@@ -16,7 +16,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 #### 2023 
 
-- Choi, G., & Oh, H. S. (2023). Elastic-Band Transform for Visualization and Detection. *Pattern Recognition Letters*.
+- Choi, G., & Oh, H. S. (2023). Elastic-band transform for visualization and detection. *Pattern Recognition Letters*, **166**, 119-125.
 
 #### 2022 
 
