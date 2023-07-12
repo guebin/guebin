@@ -32,7 +32,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 #### 2020 
 
-- Kim, D., Choi, G., & Oh, H. S. (2020). Ensemble patch transformation: a flexible frame- work for decomposition and filtering of signal. *EURASIP Journal on Advances in Signal Processing, 2020(1)*, 1-27.
+- Kim, D., Choi, G., & Oh, H. S. (2020). Ensemble patch transformation: a flexible frame- work for decomposition and filtering of signal. *EURASIP Journal on Advances in Signal Processing*, 2020(1), 1-27.
 
 #### 2018 
 
