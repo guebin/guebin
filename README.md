@@ -40,7 +40,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 #### 2015
 
-- Choi, G., Oh, H. S., Lee, Y., Kim, D. & Yu, K. (2015). Variational mode decomposition with missing data. *Korean Journal of Applied Statistics*, **28**, 159–174.
+- Choi, G., Oh, H. S., Lee, Y., Kim, D. & Yu, K. (2015). Variational mode decomposition with missing data. *Korean Journal of Applied Statistics*, **28(2)**, 159–174.
 
 ---
 
