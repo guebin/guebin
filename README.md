@@ -75,6 +75,10 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 #### 2023 
 
+- [Suumer Program: Python Programming](https://guebin.github.io/PP2023SUM/)
+
+- [Python Programming](https://guebin.github.io/PP2023/)
+
 - [***Advanced Probability Theory***](https://guebin.github.io/AP2023/)
 
 - [Stochastic Processes](https://guebin.github.io/SP2023/)
