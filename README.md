@@ -81,7 +81,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 - [Short Special Lecture: Introduction to Reinforcement Learning](http://guebin.github.io/IRL2023SSL)
 
-- [Summer Program: Python Programming](https://guebin.github.io/PP2023SUM/)
+- [Summer Program: Statistical Data Analysis using Python](https://guebin.github.io/PP2023SUM/)
 
 - [Python Programming](https://guebin.github.io/PP2023/)
 
@@ -113,7 +113,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 - Winter Program: ADsP, Advanced Data analytics semi-Professional 
 
-- [Winter Program: Special Topics in Introduction to Python](https://guebin.github.io/IP2022WIN/)
+- [Winter Program: Introduction to Python](https://guebin.github.io/IP2022WIN/)
 
 #### 2021 
 
