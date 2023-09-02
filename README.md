@@ -75,7 +75,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 - [***Special Topics in Big Data Analysis***](https://guebin.github.io/STBDA2023/)
 
-- [Machine Learning in Practice](https://guebin.github.io/MLP2023/)
+- [Machine Learning in Practice](https://guebin.github.io/MP2023/)
 
 - [Data Visualization](https://guebin.github.io/DV2023/)
 
