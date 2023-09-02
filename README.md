@@ -51,10 +51,6 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 `-` [심재인](https://github.com/simjaein) 
 - https://simjaein.github.io/jisim12/
 
-`-` [최서연](https://github.com/seoyeonc)
-- https://seoyeonc.github.io/blog/
-- https://seoyeonc.github.io/md/
-
 `-` [김보람](https://github.com/boram-coco)
 - https://boram-coco.github.io/coco/
 
@@ -66,6 +62,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 #### Alumni 
 
 `-` [김하영](https://github.com/kimha02), MS 2022, KT (케이티)
+`-` [최서연](https://github.com/seoyeonc), MS 2023, (주) 나눔스페이스
 
 ---
 
@@ -75,7 +72,15 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 #### 2023 
 
-- [Suumer Program: Python Programming](https://guebin.github.io/PP2023SUM/)
+- [***Special Topics in Big Data Analysis***](https://guebin.github.io/STBDA2023/)
+
+- [Machine Learning in Practice](https://guebin.github.io/MLP2023/)
+
+- [Data Visualization](https://guebin.github.io/DV2023/)
+
+- [Short Special Lecture: Introduction to Reinforcement Learning](http://guebin.github.io/IRL2023SSL)
+
+- [Summer Program: Python Programming](https://guebin.github.io/PP2023SUM/)
 
 - [Python Programming](https://guebin.github.io/PP2023/)
 
@@ -95,7 +100,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 - [Deep Learning](https://guebin.github.io/DL2022/)
 
-- Suumer Program: Reinforcement Learning 
+- Summer Program: Reinforcement Learning 
 
 - [***Special Topics in Big Data Analysis***](https://guebin.github.io/STBDA2022/)
 
