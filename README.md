@@ -79,11 +79,9 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 - [Data Visualization](https://guebin.github.io/DV2023/)
 
-- [Short Special Lecture: Introduction to Reinforcement Learning](http://guebin.github.io/IRL2023SSL)
+- [Short Special Lecture: Introduction to Reinforcement Learning](http://guebin.github.io/RL2023SSL)
 
 - [Summer Program: Statistical Data Analysis using Python](https://guebin.github.io/PP2023SUM/)
-
-- [Python Programming](https://guebin.github.io/PP2023/)
 
 - [***Advanced Probability Theory***](https://guebin.github.io/AP2023/)
 
