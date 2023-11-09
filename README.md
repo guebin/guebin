@@ -10,16 +10,16 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 `-` YouTube: https://www.youtube.com/channel/UCQk9RyBNgXc7ORIsYlOfQrg
 
 --- 
-### Packages 
+### Package 
 
-#### `EPT`
+#### `EPT` (R)
 - Source:
   - <https://cran.r-project.org/web/packages/EPT/index.html>
 - Document:
   - <https://cran.r-project.org/web/packages/EPT/EPT.pdf>
   - Kim, D., Oh, H. S., & Choi, G. (2021). EPT: An R package for ensemble patch transform. *SoftwareX*, **14**, 100704.
 
-#### `graft`
+#### `graft` (Python)
 
 ---
 
