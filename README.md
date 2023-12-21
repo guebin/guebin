@@ -78,9 +78,9 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 #### Alumni 
 
-`-` [김하영](https://github.com/kimha02), MS 2022, KT (케이티)
+`-` [김하영](https://github.com/kimha02), MS 2022, KT
 
-`-` [최서연](https://github.com/seoyeonc), MS 2023, (주) 나눔스페이스
+`-` [최서연](https://github.com/seoyeonc), MS 2023, 나눔스페이스
 
 ---
 
