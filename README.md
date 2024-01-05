@@ -88,6 +88,10 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 > Note: Course names in bold italics are graduate classes
 
+#### 2024 
+
+- [Winter Program: Data Science Toolbox](https://guebin.github.io/DSTBX2024/)
+
 #### 2023 
 
 - [***Special Topics in Big Data Analysis***](https://guebin.github.io/STBDA2023/)
