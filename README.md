@@ -65,25 +65,23 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 #### Master 
 
-`-` [심재인](https://github.com/simjaein) 
-- https://simjaein.github.io/jisim12/
-
 `-` [김보람](https://github.com/boram-coco)
 - https://boram-coco.github.io/coco/
 
-`-` [임지윤](https://github.com/pinkocto) 
-- https://pinkocto.github.io/noteda/
-- https://pinkocto.github.io/Quarto-Blog/
-
-
 #### Alumni 
 
-`-` [김하영](https://github.com/kimha02), MS 2022, KT
-
-`-` [최서연](https://github.com/seoyeonc), MS 2023, 나눔스페이스
+- [김하영](https://github.com/kimha02), MS 2022, KT
+- [최서연](https://github.com/seoyeonc), MS 2023, 나눔스페이스 / 전북대학교 통계학과 (석사후연구원)
+- [심재인](https://github.com/simjaein), MS 2024, 전북대학교 통계학과 (석사후연구원)
 
 ---
 
+### Grants
+
+- Geometric Deep Learning: Statistical Methodology for Non-Euclidean Data (생애 첫 연구, 2021.09 ~ 2022.08, 2021R1G1A1094937)
+- A study of multiscale methods in non-Euclidean data (지역대학우수과학자, 2023.06 ~ 2029.05, RS-2023-00249743)
+
+---
 ### Lectures
 
 > Note: Course names in bold italics are graduate classes
