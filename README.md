@@ -79,7 +79,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 ### Grants
 
 - Geometric Deep Learning: Statistical Methodology for Non-Euclidean Data (생애 첫 연구, 2021.09 ~ 2022.08, 2021R1G1A1094937)
-- A study of multiscale methods in non-Euclidean data (지역대학우수과학자, 2023.06 ~ 2029.05, RS-2023-00249743)
+- A Study of Multiscale Methods in Non-Euclidean Data (지역대학우수과학자, 2023.06 ~ 2029.05, RS-2023-00249743)
 
 ---
 ### Lectures
