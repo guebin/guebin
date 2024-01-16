@@ -14,23 +14,23 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 ### Packages 
 
 #### `EPT` (R)
-- Source:
-  - <https://cran.r-project.org/web/packages/EPT/index.html>
+- Source: <https://cran.r-project.org/web/packages/EPT/index.html>
 - Document:
   - <https://cran.r-project.org/web/packages/EPT/EPT.pdf>
   - Kim, D., Oh, H. S., & Choi, G. (2021). EPT: An R package for ensemble patch transform. *SoftwareX*, **14**, 100704.
 
 #### `graft` (Python)
+- Source: <https://github.com/guebin/graft> (
+
+#### `gglite` (R)
 - Source:
-  - <https://github.com/guebin/graft>
-- Document:
-  - not yet..
 
 ---
 
-### Publications
+### Research
 
-
+*This section lists research achievements such as peer-reviewed journal publications and conference presentations.* 
+  
 #### 2023 
 
 - Choi, G., & Oh, H. S. (2023). Elastic-band transform for visualization and detection. *Pattern Recognition Letters*, **166**, 119-125.
