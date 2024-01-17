@@ -27,9 +27,9 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 ---
 
-### Research (selected)
+### Selected Research
 
-*This section lists research achievements such as peer-reviewed journal publications and conference presentations.* 
+*This section enumerates research accomplishments, including publications in peer-reviewed journals and presentations at conferences.* 
   
 #### 2023 
 
