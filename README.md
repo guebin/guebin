@@ -25,7 +25,10 @@ Document:
 Source: <https://github.com/guebin/graft> (under development)
 
 #### `gglite` (R)
-Source:
+Source: <https://github.com/seoyeonc/gglite>
+
+#### `gglitely` (Python)
+Source: <https://github.com/seoyeonc/gglitely> (under development)
 
 ---
 
