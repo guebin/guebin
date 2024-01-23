@@ -15,20 +15,22 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 #### `EPT` (R)
 
-Source: <https://cran.r-project.org/src/contrib/EPT_0.7.6.tar.gz> 
-
-Document:
+- Source: <https://cran.r-project.org/src/contrib/EPT_0.7.6.tar.gz> 
+- Document:
   - <https://cran.r-project.org/web/packages/EPT/EPT.pdf>
   - Kim, D., Oh, H. S., & Choi, G. (2021). EPT: An R package for ensemble patch transform. *SoftwareX*, **14**, 100704.
 
 #### `graft` (Python)
-Source: <https://github.com/guebin/graft> (under development)
+
+- Source: <https://github.com/guebin/graft> (under development)
 
 #### `gglite` (R)
-Source: <https://github.com/seoyeonc/gglite>
+
+- Source: <https://github.com/seoyeonc/gglite>
 
 #### `gglitely` (Python)
-Source: <https://github.com/seoyeonc/gglitely> (under development)
+
+- Source: <https://github.com/seoyeonc/gglitely> (under development)
 
 ---
 
