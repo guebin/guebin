@@ -30,7 +30,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 #### `gglitely` (Python)
 
-- Source: <https://github.com/seoyeonc/gglitely> (under development)
+- Source: <https://github.com/seoyeonc/gglitely>
 
 ---
 
