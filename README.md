@@ -95,6 +95,8 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 #### 2024 
 
+- [Statistical Computing](https://guebin.github.io/SC2024/)
+  
 - [Deep Learning](https://guebin.github.io/DL2024/)
 
 - [Winter Program: Statistical Data Analysis using Python](https://guebin.github.io/PP2024WIN)
