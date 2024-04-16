@@ -46,7 +46,6 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 - Kim, D., Oh, H. S., & Choi, G. (2021). EPT: An R package for ensemble patch transform. *SoftwareX*, **14**, 100704.
 - Kim, D., Choi, G., & Oh, H. S. (2020). Ensemble patch transformation: a flexible frame- work for decomposition and filtering of signal. *EURASIP Journal on Advances in Signal Processing*, 2020(1), 1-27.
 - Choi, G., Oh, H. S. & Kim, D. (2018). Enhancement of variational mode decomposition with missing values. *Signal Processing*, **142**, 75–86.
-- Choi, G., Oh, H. S., Lee, Y., Kim, D. & Yu, K. (2015). Variational mode decomposition with missing data. *Korean Journal of Applied Statistics*, **28(2)**, 159–174.
 
 ---
 
