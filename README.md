@@ -3,11 +3,9 @@
 
 I'm an assistant professor in Department of Statistics, Jeonbuk National University, South Korea. I received my Ph.D. from the Department of Statistics, Seoul National University in 2018, under the supervision of Prof. Hee-Seok Oh. My research area focuses on multi-scale methodology, which involves statistical techniques that represent data at various scales and simultaneously handle these representations. Among these, I have a particular interest in geometric deep learning, which deals with unstructured data such as graphs and manifolds.
 
-`-` Email: guebin@jbnu.ac.kr
-
-`-` Phone: (+82) 63-270-3387
-
-`-` YouTube: https://www.youtube.com/channel/UCQk9RyBNgXc7ORIsYlOfQrg
+- Email: guebin@jbnu.ac.kr
+- Phone: (+82) 63-270-3387
+- YouTube: https://www.youtube.com/channel/UCQk9RyBNgXc7ORIsYlOfQrg
 
 --- 
 
