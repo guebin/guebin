@@ -36,7 +36,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 *This section enumerates research accomplishments, including publications in peer-reviewed journals and presentations at conferences.* 
 
-- Choi, G., & Oh, H. S. (2024). Decomposition via Elastic-Band Transform. *Pattern Recognition Letters*.  
+- Choi, G., & Oh, H. S. (2024). Decomposition via elastic-band transform. *Pattern Recognition Letters*.
 - Choi, G., & Oh, H. S. (2023). Elastic-band transform for visualization and detection. *Pattern Recognition Letters*, **166**, 119-125.
 - Oh, H. S., Choi, G., & Kim, D. (2022). Decomp2d: An R solution for image decomposition. *SoftwareX*, **19**, 101182.
 - Choi, G. (2021). A new approach for detecting gradual changes in non-stationary time series with seasonal effects. *Journal of the Korean Statistical Society*, **50**, 419-430. 
