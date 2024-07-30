@@ -1,4 +1,3 @@
-
 ### About me
 
 I'm an assistant professor in Department of Statistics, Jeonbuk National University, South Korea. I received my Ph.D. from the Department of Statistics, Seoul National University in 2018, under the supervision of Prof. Hee-Seok Oh. My research area focuses on multi-scale methodology, which involves statistical techniques that represent data at various scales and simultaneously handle these representations. Among these, I have a particular interest in geometric deep learning, which deals with unstructured data such as graphs and manifolds.
@@ -11,14 +10,19 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 ### Packages 
 
-#### [EPT (R)](https://cran.r-project.org/src/contrib/EPT_0.7.6.tar.gz)
-Document:
-  - CRAN: <https://cran.r-project.org/web/packages/EPT/EPT.pdf>
-  - PAPER: Kim, D., Oh, H. S., & Choi, G. (2021). EPT: An R package for ensemble patch transform. *SoftwareX*, **14**, 100704.
+#### EPT (R)
+
+- Source: <https://cran.r-project.org/src/contrib/EPT_0.7.6.tar.gz>
+- CRAN: <https://cran.r-project.org/web/packages/EPT/EPT.pdf>
+- PAPER: Kim, D., Oh, H. S., & Choi, G. (2021). EPT: An R package for ensemble patch transform. *SoftwareX*, **14**, 100704.
+
+#### EBT (R) 
+
+- Source: <https://github.com/guebin/ebt>
 
 #### `graft` (Python)
 
-- Source: <https://github.com/guebin/graft> (under development)
+- Source: <https://github.com/guebin/graft> 
 
 #### `gglite` (R)
 
@@ -26,7 +30,7 @@ Document:
 
 #### `gglitely` (Python)
 
-- Source: <https://github.com/seoyeonc/gglitely>
+- Source: <https://github.com/seoyeonc/gglitely> (under developement)
 
 ---
 
