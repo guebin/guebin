@@ -12,7 +12,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 #### EPT (R)
 
-- Documents: [PAPER](https://www.sciencedirect.com/science/article/pii/S2352711021000492), [CRAN](https://cran.r-project.org/web/packages/EPT/EPT.pdf)
+- Documents: [Paper](https://www.sciencedirect.com/science/article/pii/S2352711021000492), [CRAN](https://cran.r-project.org/web/packages/EPT/EPT.pdf)
 - Source: <https://cran.r-project.org/src/contrib/EPT_0.7.6.tar.gz>
 
 
