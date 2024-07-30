@@ -20,15 +20,15 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 - Source: <https://github.com/guebin/ebt>
 
-#### `graft` (Python)
+#### graft (Python)
 
 - Source: <https://github.com/guebin/graft> 
 
-#### `gglite` (R)
+#### gglite (R)
 
 - Source: <https://github.com/seoyeonc/gglite>
 
-#### `gglitely` (Python)
+#### gglitely (Python)
 
 - Source: <https://github.com/seoyeonc/gglitely> (under developement)
 
