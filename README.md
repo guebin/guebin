@@ -109,6 +109,8 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 ### Students
 
+#### Master
+
 #### Alumni 
 
 - [김하영](https://github.com/kimha02), MS 2022, KT
