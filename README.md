@@ -60,6 +60,10 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 > Note: Course names in bold italics are graduate classes
 
+#### 2025
+
+- [Winter Program: Data Science Toolbox](https://guebin.github.io/DSTBX2025/)
+
 #### 2024 
 
 - [Statistics Seminar](https://guebin.github.io/SS2024/)
