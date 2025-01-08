@@ -6,40 +6,13 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 - Phone: (+82) 63-270-3387
 - YouTube: https://www.youtube.com/channel/UCQk9RyBNgXc7ORIsYlOfQrg
 
---- 
-
-### Packages 
-
-#### EPT (R)
-
-- Documents: [Paper](https://www.sciencedirect.com/science/article/pii/S2352711021000492), [CRAN](https://cran.r-project.org/web/packages/EPT/EPT.pdf)
-- Source: <https://cran.r-project.org/src/contrib/EPT_0.7.6.tar.gz>
-
-#### EBT (R) 
-
-- Source: <https://github.com/guebin/ebt>
-
-#### graft (Python)
-
-- Source: <https://github.com/guebin/graft> 
-
-#### gglite (R)
-
-- Source: <https://github.com/seoyeonc/gglite>
-
-#### gglitely (Python)
-
-- Source: <https://github.com/seoyeonc/gglitely> (under developement)
-
-
-
 ---
 
 ### Research (Selected)
 
 *This section enumerates research accomplishments, including publications in peer-reviewed journals and presentations at conferences.* 
 
-- Choi, G., & Oh, H. S. (2024). Decomposition via elastic-band transform. *Pattern Recognition Letters*.
+- Choi, G., & Oh, H. S. (2024). Decomposition via elastic-band transform. *Pattern Recognition Letters*, **182**, 76-82.
 - Choi, G., & Oh, H. S. (2023). Elastic-band transform for visualization and detection. *Pattern Recognition Letters*, **166**, 119-125.
 - Oh, H. S., Choi, G., & Kim, D. (2022). Decomp2d: An R solution for image decomposition. *SoftwareX*, **19**, 101182.
 - Choi, G. (2021). A new approach for detecting gradual changes in non-stationary time series with seasonal effects. *Journal of the Korean Statistical Society*, **50**, 419-430. 
@@ -113,6 +86,29 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 - Mathematical Statistics 
 - Time Series Analysis 
+
+### Packages 
+
+#### EPT (R)
+
+- Documents: [Paper](https://www.sciencedirect.com/science/article/pii/S2352711021000492), [CRAN](https://cran.r-project.org/web/packages/EPT/EPT.pdf)
+- Source: <https://cran.r-project.org/src/contrib/EPT_0.7.6.tar.gz>
+
+#### EBT (R) 
+
+- Source: <https://github.com/guebin/ebt>
+
+#### graft (Python)
+
+- Source: <https://github.com/guebin/graft> 
+
+#### gglite (R)
+
+- Source: <https://github.com/seoyeonc/gglite>
+
+#### gglitely (Python)
+
+- Source: <https://github.com/seoyeonc/gglitely> (under developement)
 
 ### Students
 
