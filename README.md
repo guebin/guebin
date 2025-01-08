@@ -87,6 +87,8 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 - Mathematical Statistics 
 - Time Series Analysis 
 
+---
+
 ### Packages 
 
 #### EPT (R)
@@ -109,6 +111,8 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 #### gglitely (Python)
 
 - Source: <https://github.com/seoyeonc/gglitely> (under developement)
+
+--- 
 
 ### Students
 
