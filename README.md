@@ -116,13 +116,23 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 ### Students
 
+#### Interns
+
+- 이상민 (2025.01 - ) 
+
 #### Master
+
+- NA
+
+#### Ph.D 
+
+- 전재범 (2025.03 -)
 
 #### Alumni 
 
 - [김하영](https://github.com/kimha02), MS 2022, KT
-- [최서연](https://github.com/seoyeonc), MS 2023, 나눔스페이스 (전북대학교 임상약리센터)
-- [심재인](https://github.com/simjaein), MS 2024, 전북대학교 통계학과 (석사후연구원)
+- [최서연](https://github.com/seoyeonc), MS 2023, 나눔스페이스 (전북대학교병원 임상약리센터)
+- [심재인](https://github.com/simjaein), MS 2024
 - [김보람](https://github.com/boram-coco), MS 2024, 전북대학교 교육혁신처
 ---
 
