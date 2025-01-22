@@ -93,25 +93,13 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 ### Packages 
 
-*EPT (R)*
-- Documents: [Paper](https://www.sciencedirect.com/science/article/pii/S2352711021000492), [CRAN](https://cran.r-project.org/web/packages/EPT/EPT.pdf)
-- Source: <https://cran.r-project.org/src/contrib/EPT_0.7.6.tar.gz>
-
-#### EBT (R) 
-
-- Source: <https://github.com/guebin/ebt>
-
-#### graft (Python)
-
-- Source: <https://github.com/guebin/graft> 
-
-#### gglite (R)
-
-- Source: <https://github.com/seoyeonc/gglite>
-
-#### gglitely (Python)
-
-- Source: <https://github.com/seoyeonc/gglitely> (under developement)
+| Package Name       | Documents/Source                                                                                                                   |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| **EPT (R)**        | [Paper](https://www.sciencedirect.com/science/article/pii/S2352711021000492), [CRAN](https://cran.r-project.org/web/packages/EPT/EPT.pdf), [Source](https://cran.r-project.org/src/contrib/EPT_0.7.6.tar.gz) |
+| **EBT (R)**        | [Source](https://github.com/guebin/ebt)                                                                                            |
+| **graft (Python)** | [Source](https://github.com/guebin/graft)                                                                                          |
+| **gglite (R)**     | [Source](https://github.com/seoyeonc/gglite)                                                                                       |
+| **gglitely (Python)** | [Source](https://github.com/seoyeonc/gglitely) (under development)                                                                |
 
 --- 
 
