@@ -116,13 +116,17 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 ### Students
 
+#### Ph.D 
+
+- 전재범 (2025.03 -)
+
 #### Master
 
 - NA
 
-#### Ph.D 
+#### Interns
 
-- 전재범 (2025.03 -)
+- 이상민 (2025.01 - ) 
 
 #### Alumni 
 
@@ -131,9 +135,6 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 - [심재인](https://github.com/simjaein), MS 2024
 - [김보람](https://github.com/boram-coco), MS 2024, 전북대학교 교육혁신처
 
-#### Interns
-
-- 이상민 (2025.01 - ) 
 
 ---
 
