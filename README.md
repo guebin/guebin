@@ -116,10 +116,6 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 ### Students
 
-#### Interns
-
-- 이상민 (2025.01 - ) 
-
 #### Master
 
 - NA
@@ -134,6 +130,11 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 - [최서연](https://github.com/seoyeonc), MS 2023, 나눔스페이스 (전북대학교병원 임상약리센터)
 - [심재인](https://github.com/simjaein), MS 2024
 - [김보람](https://github.com/boram-coco), MS 2024, 전북대학교 교육혁신처
+
+#### Interns
+
+- 이상민 (2025.01 - ) 
+
 ---
 
 <!---
