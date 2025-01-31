@@ -36,6 +36,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 ### Lectures
 
 > Note: Course names in bold italics are graduate classes
+
 | Year | Course |
 |------|--------------------------------------------------------------|
 | 2025 | [IAB Programming](https://guebin.github.io/IAB2025/) |
