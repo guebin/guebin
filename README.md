@@ -27,7 +27,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 ### Grants (Selected: PI-Led Research Projects Only)
 
-*This section includes only personally led research projects, excluding those where the author was involved as a faculty member of the Department of Statistics at Jeonbuk National University or as the director of the Applied Statistics Research Institute.*
+*This section includes only personally led research projects, excluding collaborative grants where the principal investigator did not play a leading role, such as projects conducted in the capacity of a faculty member of the JBNU Statistics or as the director of the Applied Statistics Research Institute.*
 
 - Geometric Deep Learning: *Statistical Methodology for Non-Euclidean Data* (생애 첫 연구, 2021.09 ~ 2022.08, 2021R1G1A1094937)
 - A Study of Multiscale Methods in Non-Euclidean Data (지역대학우수과학자, 2023.06 ~ 2029.05, RS-2023-00249743)
