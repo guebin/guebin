@@ -8,9 +8,9 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 ---
 
-### Research (Selected)
+### Research (Selected: SCIE-indexed Journals & Equivalent Conferences Only)
 
-*This section enumerates research accomplishments, including publications in peer-reviewed journals and presentations at conferences.* 
+*This section lists selected research accomplishments, limited to publications in SCIE-indexed peer-reviewed journals and high-impact conferences of equivalent standing.*
 
 - Choi, S., & Choi, G. (2025). Gode: graph Fourier transform based outlier detection using empirical Bayesian thresholding. *Journal of the Korean Statistical Society* 
 - Choi, G., & Oh, H. S. (2024). Decomposition via elastic-band transform. *Pattern Recognition Letters*, **182**, 76-82.
