@@ -9,7 +9,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 ---
 
-### Research
+### Research (Selected: SCIE-indexed Journals & Equivalent Conferences Only)
 
 *This section lists selected research accomplishments, limited to publications in SCIE-indexed peer-reviewed journals and high-impact conferences of equivalent standing.*
 
@@ -25,7 +25,7 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 ---
 
-### Grants
+### Grants (Selected: PI-Led Research Projects Only)
 
 *This section includes only personally led research projects, excluding collaborative grants where the principal investigator did not play a leading role, such as projects conducted in the capacity of a faculty member of the JBNU Dept. of Statistics or as the director of the Applied Statistics Research Institute.*
 
