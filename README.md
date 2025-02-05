@@ -53,6 +53,9 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 - [Winter Program: Statistical Data Analysis using Python](https://guebin.github.io/PP2024WIN)
 - [Winter Program: Data Science Toolbox](https://guebin.github.io/DSTBX2024/)
 
+<details>
+<summary>Show older lectures</summary>
+
 #### 2023 
 
 - [***Special Topics in Big Data Analysis***](https://guebin.github.io/STBDA2023/)
@@ -92,6 +95,8 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 - Mathematical Statistics 
 - Time Series Analysis 
+
+</details>
 
 ---
 
