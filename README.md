@@ -13,15 +13,15 @@ I'm an assistant professor in Department of Statistics, Jeonbuk National Univers
 
 *This section lists selected research accomplishments, limited to publications in SCIE-indexed peer-reviewed journals and high-impact conferences of equivalent standing.*
 
-- Choi, S., & **Choi, G**. (2025). Gode: graph Fourier transform based outlier detection using empirical Bayesian thresholding. *Journal of the Korean Statistical Society*, 1-21.  
-- Choi, G., & Oh, H. S. (2024). Decomposition via elastic-band transform. *Pattern Recognition Letters*, **182**, 76-82.
-- Choi, G., & Oh, H. S. (2023). Elastic-band transform for visualization and detection. *Pattern Recognition Letters*, **166**, 119-125.
-- Oh, H. S., Choi, G., & Kim, D. (2022). Decomp2d: An R solution for image decomposition. *SoftwareX*, **19**, 101182.
-- Choi, G. (2021). A new approach for detecting gradual changes in non-stationary time series with seasonal effects. *Journal of the Korean Statistical Society*, **50**, 419-430. 
-- Lee, D., Jeong, J. W., & Choi, G. (2021). Short Term Prediction of PV Power Output Generation Using Hierarchical Probabilistic Model. *Energies*, **14**(10), 1-15.
-- Kim, D., Oh, H. S., & Choi, G. (2021). EPT: An R package for ensemble patch transform. *SoftwareX*, **14**, 100704.
-- Kim, D., Choi, G., & Oh, H. S. (2020). Ensemble patch transformation: a flexible frame- work for decomposition and filtering of signal. *EURASIP Journal on Advances in Signal Processing*, 2020(1), 1-27.
-- Choi, G., Oh, H. S. & Kim, D. (2018). Enhancement of variational mode decomposition with missing values. *Signal Processing*, **142**, 75–86.
+- Choi, S., & **Choi, G.** (2025). Gode: graph Fourier transform based outlier detection using empirical Bayesian thresholding. *Journal of the Korean Statistical Society*, 1-21.  
+- **Choi, G.**, & Oh, H. S. (2024). Decomposition via elastic-band transform. *Pattern Recognition Letters*, **182**, 76-82.
+- **Choi, G.**, & Oh, H. S. (2023). Elastic-band transform for visualization and detection. *Pattern Recognition Letters*, **166**, 119-125.
+- Oh, H. S., **Choi, G**., & Kim, D. (2022). Decomp2d: An R solution for image decomposition. *SoftwareX*, **19**, 101182.
+- **Choi, G.** (2021). A new approach for detecting gradual changes in non-stationary time series with seasonal effects. *Journal of the Korean Statistical Society*, **50**, 419-430. 
+- Lee, D., Jeong, J. W., & **Choi, G.** (2021). Short Term Prediction of PV Power Output Generation Using Hierarchical Probabilistic Model. *Energies*, **14**(10), 1-15.
+- Kim, D., Oh, H. S., & **Choi, G.** (2021). EPT: An R package for ensemble patch transform. *SoftwareX*, **14**, 100704.
+- Kim, D., **Choi, G.**, & Oh, H. S. (2020). Ensemble patch transformation: a flexible frame- work for decomposition and filtering of signal. *EURASIP Journal on Advances in Signal Processing*, 2020(1), 1-27.
+- **Choi, G.**, Oh, H. S. & Kim, D. (2018). Enhancement of variational mode decomposition with missing values. *Signal Processing*, **142**, 75–86.
 
 ---
 
