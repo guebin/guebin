@@ -35,6 +35,9 @@ More recently, I’ve been focusing on multiscale methods for non-Euclidean data
 - Kim, D., **Choi, G.**, & Oh, H. S. (2020). Ensemble patch transformation: a flexible frame- work for decomposition and filtering of signal. *EURASIP Journal on Advances in Signal Processing*, 2020(1), 1-27.
 - **Choi, G.**, Oh, H. S. & Kim, D. (2018). Enhancement of variational mode decomposition with missing values. *Signal Processing*, **142**, 75–86.
 
+> A complete list of publications can be found via the link below:
+> <https://scholar.google.com/citations?user=0Y1bz9wAAAAJ&hl=ko&oi=sra>
+
 ---
 ### Lectures
 
