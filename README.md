@@ -46,7 +46,11 @@ More recently, I’ve been focusing on multiscale methods for non-Euclidean data
 - [Deep Learning](https://guebin.github.io/DL2025/)
 - [Winter Program: Data Science Toolbox](https://guebin.github.io/DSTBX2025/)
 
-#### 2024 
+
+<details>
+<summary>Show older lectures</summary>
+
+  #### 2024 
 
 - [Statistics Seminar](https://guebin.github.io/SS2024/)
 - [Machine Learning in Practice](https://guebin.github.io/MP2024/)
@@ -55,9 +59,6 @@ More recently, I’ve been focusing on multiscale methods for non-Euclidean data
 - [Deep Learning](https://guebin.github.io/DL2024/)
 - [Winter Program: Statistical Data Analysis using Python](https://guebin.github.io/PP2024WIN)
 - [Winter Program: Data Science Toolbox](https://guebin.github.io/DSTBX2024/)
-
-<details>
-<summary>Show older lectures</summary>
 
 #### 2023 
 
