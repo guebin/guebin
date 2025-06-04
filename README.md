@@ -14,7 +14,7 @@ More recently, I’ve been focusing on multiscale methods for non-Euclidean data
 
 ### Grants (Selected)
 
-*This section includes only personally led research projects, excluding collaborative grants where the principal investigator did not play a leading role, such as projects conducted in the capacity of a faculty member of the JBNU Dept. of Statistics or as the director of the Applied Statistics Research Institute.*
+*This section introduces only the research projects I personally led. Collaborative projects where I was not the Principal Investigator (PI) are excluded.*
 
 - Geometric Deep Learning: Statistical Methodology for Non-Euclidean Data (생애 첫 연구, 2021.09 ~ 2022.08, 2021R1G1A1094937)
 - A Study of Multiscale Methods in Non-Euclidean Data (지역대학우수과학자, 2023.06 ~ 2029.05, RS-2023-00249743)
@@ -22,8 +22,6 @@ More recently, I’ve been focusing on multiscale methods for non-Euclidean data
 ---
 
 ### Research (Selected)
-
-*This section lists selected research accomplishments, limited to publications in SCIE-indexed peer-reviewed journals and high-impact conferences of equivalent standing.*
 
 - Choi, S., & **Choi, G.** (2025). Gode: graph Fourier transform based outlier detection using empirical Bayesian thresholding. *Journal of the Korean Statistical Society*, 1-21.  
 - **Choi, G.**, & Oh, H. S. (2024). Decomposition via elastic-band transform. *Pattern Recognition Letters*, **182**, 76-82.
