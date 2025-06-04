@@ -108,9 +108,9 @@ More recently, I’ve been focusing on multiscale methods for non-Euclidean data
 | Package Name       | Documents                                                                                                           | Source                                                                                     |
 |--------------------|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | **EPT (R)**        | [Paper](https://www.sciencedirect.com/science/article/pii/S2352711021000492), [CRAN](https://cran.r-project.org/web/packages/EPT/EPT.pdf) | [CRAN](https://cran.r-project.org/src/contrib/EPT_0.7.6.tar.gz)                           |
-| **EBT (R)**        | N/A                                                                                                                 | [GitHub](https://github.com/guebin/ebt) (under development)                                |
-| **graft (Python)** | N/A                                                                                                                 | [GitHub](https://github.com/guebin/graft) (under development)                              |
-| **gglite (R)**     | N/A                                                                                                                 | [GitHub](https://github.com/seoyeonc/gglite) (under development)                           |
+| **EBT (R)**        | N/A                                                                                                                 | [GitHub](https://github.com/guebin/ebt)                                |
+| **graft (Python)** | N/A                                                                                                                 | [GitHub](https://github.com/guebin/graft)                               |
+| **gglite (R)**     | N/A                                                                                                                 | [GitHub](https://github.com/seoyeonc/gglite)                            |
 | **gglitely (Python)** | N/A                                                                                                              | [GitHub](https://github.com/seoyeonc/gglitely) (under development)                         |
 
 --- 
