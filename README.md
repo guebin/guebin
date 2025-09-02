@@ -41,7 +41,9 @@ More recently, I’ve been focusing on multiscale methods for non-Euclidean data
 
 #### 2025
 
-- [IAB Programming](https://guebin.github.io/IAB2025/)
+- [IAB Basic Statistics ](https://guebin.github.io/IAB-BS2025/) 
+- [***Advanced Probability Theory***](https://guebin.github.io/AP2025/)
+- [IAB Programming](https://guebin.github.io/IAB-PR2025/) 
 - [Deep Learning](https://guebin.github.io/DL2025/)
 - [Winter Program: Data Science Toolbox](https://guebin.github.io/DSTBX2025/)
 
