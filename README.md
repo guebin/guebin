@@ -129,7 +129,8 @@ More recently, I’ve been focusing on multiscale methods for non-Euclidean data
 
 #### Interns
 
-- 이상민 (2025.01 - ) 
+- 이상민 (2025.01 - )
+- 권순원 (2025.06 - ) 
 
 #### Alumni 
 
