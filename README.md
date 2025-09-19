@@ -110,7 +110,7 @@ More recently, I’ve been focusing on multiscale methods for non-Euclidean data
 | Package Name       | Documents                                                                                                           | Source                                                                                     |
 |--------------------|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | **EPT (R)**        | [Paper](https://www.sciencedirect.com/science/article/pii/S2352711021000492), [CRAN](https://cran.r-project.org/web/packages/EPT/EPT.pdf) | [CRAN](https://cran.r-project.org/src/contrib/EPT_0.7.6.tar.gz)                           |
-| **CasCAM (R/Python)**  | N/A                                                                                                                                           | [GitHub](https://github.com/guebin/CasCAM)                                                           |
+| **CasCAM (Python)**  | [GitHub](https://github.com/guebin/CasCAM/README.md)                                                                                                                                           | [GitHub](https://github.com/guebin/CasCAM)                                                           |
 
 --- 
 
