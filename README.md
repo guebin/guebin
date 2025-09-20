@@ -121,7 +121,7 @@ More recently, I’ve been focusing on multiscale methods for non-Euclidean data
 
 #### Master
 
-- N/A
+- 이민희 (2025.09 -)
 
 #### Interns
 
