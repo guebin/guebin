@@ -26,12 +26,10 @@ More recently, I’ve been focusing on multiscale methods for non-Euclidean data
 *This section highlights select research accomplishments that directly align with my core research.*
 
 - **Choi, G.**, & Oh, H. S. (2025). Exploring multiscale methods: reviews and insights. *Journal of the Korean Statistical Society*, 1-38.
-- Choi, S., & **Choi, G.** (2025). Gode: graph Fourier transform based outlier detection using empirical Bayesian thresholding. *Journal of the Korean Statistical Society*, 1-21.  
 - **Choi, G.**, & Oh, H. S. (2024). Decomposition via elastic-band transform. *Pattern Recognition Letters*, **182**, 76-82.
 - **Choi, G.**, & Oh, H. S. (2023). Elastic-band transform for visualization and detection. *Pattern Recognition Letters*, **166**, 119-125.
-- Kim, D., **Choi, G.**, & Oh, H. S. (2020). Ensemble patch transformation: a flexible frame- work for decomposition and filtering of signal. *EURASIP Journal on Advances in Signal Processing*, 2020(1), 1-27.
-- **Choi, G.**, Oh, H. S. & Kim, D. (2018). Enhancement of variational mode decomposition with missing values. *Signal Processing*, **142**, 75–86.
-
+- **Choi, G.** (2018). Elastic-band Transform and Heavy-snow Transform: New Multiscale Method. *Doctoral dissertation, Seoul National University*.
+  
 > For a complete list of publications, please click [here](https://scholar.google.com/citations?user=0Y1bz9wAAAAJ&hl=ko&oi=sra).
 
 ---
