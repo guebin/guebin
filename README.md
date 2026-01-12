@@ -49,7 +49,7 @@ More recently, I’ve been focusing on multiscale methods for non-Euclidean data
 <details>
 <summary>Show older lectures</summary>
 
-  #### 2024 
+#### 2024 
 
 - [Statistics Seminar](https://guebin.github.io/SS2024/)
 - [Machine Learning in Practice](https://guebin.github.io/MP2024/)
