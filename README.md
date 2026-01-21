@@ -29,14 +29,14 @@ More recently, I’ve been focusing on multiscale methods for non-Euclidean data
 - **Choi, G.**, & Oh, H. S. (2024). Decomposition via elastic-band transform. *Pattern Recognition Letters*, **182**, 76-82.
 - **Choi, G.**, & Oh, H. S. (2023). Elastic-band transform for visualization and detection. *Pattern Recognition Letters*, **166**, 119-125.
 - **Choi, G.** (2018). Elastic-band Transform and Heavy-snow Transform: New Multiscale Method. *Doctoral dissertation, Seoul National University*.
-  
-> For a complete list of publications, please click [here](https://scholar.google.com/citations?user=0Y1bz9wAAAAJ&hl=ko&oi=sra).
+
+For a complete list of publications, please click [here](https://scholar.google.com/citations?user=0Y1bz9wAAAAJ&hl=ko&oi=sra).
 
 ---
 
 ### Lectures
 
-A complete list of lectures and course materials is available at: https://guebin.github.io/lectures/
+For a complete and up-to-date list of lectures, please click [here](https://guebin.github.io/lectures/).
 
 ---
 
