@@ -37,6 +37,14 @@ More recently, I’ve been focusing on multiscale methods for non-Euclidean data
 
 > Note: Course names in bold italics are graduate classes
 
+#### 2026
+
+- [Deep Learning](https://guebin.github.io/DL2026/)
+- [***Special Topics in Statistical Computing*** ](https://guebin.github.io/STSC2026/)
+
+<details>
+<summary>Show older lectures</summary>
+
 #### 2025
 
 - [IAB Basic Statistics](https://guebin.github.io/IAB-BS2025/) 
@@ -45,9 +53,6 @@ More recently, I’ve been focusing on multiscale methods for non-Euclidean data
 - [Deep Learning](https://guebin.github.io/DL2025/)
 - [Winter Program: Data Science Toolbox](https://guebin.github.io/DSTBX2025/)
 
-
-<details>
-<summary>Show older lectures</summary>
 
 #### 2024 
 
