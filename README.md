@@ -21,7 +21,7 @@ More recently, I’ve been focusing on multiscale methods for non-Euclidean data
 
 ---
 
-### Research (Selected)
+### Works (Selected)
 
 *This section highlights select research accomplishments that directly align with my core research.*
 
