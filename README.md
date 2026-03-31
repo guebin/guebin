@@ -40,6 +40,12 @@ For a complete and up-to-date list of lectures, please click [here](https://gueb
 
 ---
 
+### Presentations
+
+For a complete and up-to-date list of presentations, please click [here](https://guebin.github.io/presentations/).
+
+---
+
 ### Packages 
 
 | Package | Docs | Source |
