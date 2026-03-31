@@ -50,7 +50,7 @@ For a complete and up-to-date list of presentations, please click [here](https:/
 
 | Package | Docs | Source |
 |---------|------|--------|
-| **EPT (R)** | [Software Paper](https://www.sciencedirect.com/science/article/pii/S2352711021000492), [Reference Manual](https://cran.r-project.org/web/packages/EPT/EPT.pdf) | [CRAN](https://cran.r-project.org/src/contrib/EPT_0.7.6.tar.gz) |
+| **EPT (R)** | [Paper](https://www.sciencedirect.com/science/article/pii/S2352711021000492), [Reference Manual](https://cran.r-project.org/web/packages/EPT/EPT.pdf) | [CRAN](https://cran.r-project.org/src/contrib/EPT_0.7.6.tar.gz) |
 | **CasCAM (Py)** | [User Guide](https://github.com/guebin/cascam/blob/main/README.md) | [GitHub](https://github.com/guebin/cascam) |
 | **gglite (R)** | | [GitHub](https://github.com/seoyeonc/gglite) |
 
