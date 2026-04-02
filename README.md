@@ -12,7 +12,7 @@ More recently, I’ve been focusing on multiscale methods for non-Euclidean data
 
 ---
 
-### Grants (Selected)
+### Grants 
 
 *This section introduces only the research projects I personally led. Collaborative projects where I was not the Principal Investigator (PI) are excluded.*
 
@@ -21,7 +21,7 @@ More recently, I’ve been focusing on multiscale methods for non-Euclidean data
 
 ---
 
-### Works (Selected)
+### Works 
 
 *This section highlights select research accomplishments that directly align with my core research.*
 
